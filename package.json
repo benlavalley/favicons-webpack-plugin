@@ -1,5 +1,5 @@
 {
-  "name": "favicons-webpack-plugin",
+  "name": "@redocly/favicons-webpack-plugin",
   "version": "0.0.9",
   "description": "Let webpack generate all your favicons and icons for you",
   "main": "index.js",
@@ -32,7 +32,7 @@
   "semistandard": {
     "parser": "babel-eslint"
   },
-  "homepage": "https://github.com/jantimon/favicons-webpack-plugin",
+  "homepage": "https://github.com/Redocly/favicons-webpack-plugin",
   "devDependencies": {
     "ava": "^0.25.0",
     "babel-eslint": "^8.2.6",
