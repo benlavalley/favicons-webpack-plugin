@@ -1,6 +1,6 @@
 {
   "name": "@redocly/favicons-webpack-plugin",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Let webpack generate all your favicons and icons for you",
   "main": "index.js",
   "files": [
